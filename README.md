@@ -42,9 +42,7 @@
  
  ## 💬 Où me trouver ?
  
- - [🌐 Mon site web](https://mon-site.com)
- - [🐦 Twitter](https://twitter.com/mon-utilisateur)
- - [💼 LinkedIn](https://linkedin.com/in/mon-utilisateur)
+ - [🌐 Mon GitHub](https://github.com/riftdeveloppement)
  
  ---
  
@@ -74,4 +72,3 @@
  ## 📧 Me Contacter
  
  Si tu souhaites collaborer, ou juste dire bonjour, n’hésite pas à me contacter à : ![Discord](https://img.shields.io/badge/-wged-7289DA?style=flat-square&logo=discord&logoColor=white)
- 📩
