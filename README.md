@@ -73,4 +73,5 @@
  
  ## 📧 Me Contacter
  
- Si tu souhaites collaborer, ou juste dire bonjour, n’hésite pas à me contacter à : **mon.email@gmail.com** 📩
+ Si tu souhaites collaborer, ou juste dire bonjour, n’hésite pas à me contacter à : ![Discord](https://img.shields.io/badge/-TonPseudo%231234-7289DA?style=flat-square&logo=discord&logoColor=white)
+ 📩
