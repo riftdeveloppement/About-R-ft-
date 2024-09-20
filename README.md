@@ -4,11 +4,11 @@
 
 ## 🎨 About Me
 
-Hi! I'm **R!ft**, a passionate **software developer**, **data science enthusiast**, and **technology lover**. I love experimenting with new technologies, building innovative projects, and sharing my knowledge. 💻✨
+Hi! I'm **R!ft**, a passionate french **software developer**, **data science enthusiast**, and **technology lover**. I love experimenting with new technologies, building innovative projects, and sharing my knowledge. 💻✨
 
 - 🔭 **Currently working on:** various projects involving frequencies, databases, and tools.
 - 🌱 **Currently learning:** data processing system optimization and machine learning algorithms.
-- ⚡ **Fun fact:** I can spend hours developing useless tools...** 😄
+- ⚡ **Fun fact:** I can spend hours developing useless tools... 😄
 
 ---
 
