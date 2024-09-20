@@ -20,9 +20,7 @@ Hi! I'm **R!ft**, a passionate **software developer**, **data science enthusiast
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [🔊 Frequency Analysis](https://github.com/my-username/my-frequency-project) | Capturing and analyzing radio signals with Python | Python, NumPy, Matplotlib |
-| [📊 Data Dashboard](https://github.com/my-username/data-dashboard) | Interactive data visualization | Python, Dash, Plotly |
-| [💡 Automation System](https://github.com/my-username/automation-system) | Task automation with Python scripts | Python, Bash, Git |
+| [🔊 Frequency Analysis](https://github.com/riftdeveloppement/PortSeeker) | Find open ports of an IP | Python |
 
 ---
 
@@ -30,7 +28,7 @@ Hi! I'm **R!ft**, a passionate **software developer**, **data science enthusiast
 
 ```bash
 $ cat skills.txt
-- Languages: Python, JavaScript, HTML/CSS, Bash
+- Languages: Python, JavaScript, HTML/CSS, Bash, Rust, LUA
 - Frameworks: Flask, React, Node.js
 - Tools: Git, Docker, VS Code
 - DevOps: CI/CD, Kubernetes, AWS
